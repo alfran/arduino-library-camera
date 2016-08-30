@@ -1,7 +1,6 @@
-# arduino-library-camera
-Arduino Camera Library for stm32 platform 
+#Arduino Camera Library for STM32 Platform 
 
-# CAMERA API definition _(Proposal)_
+## API definition _(Proposal)_
 
 **Camera.begin(_resolution_):** Initialize the Camera module 
 * _int **resolution**_: set the resolution of the acquired image. 
